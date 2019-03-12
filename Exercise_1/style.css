@@ -1,0 +1,50 @@
+body{
+	margin: 0 auto;
+	padding: 0 auto;
+}
+
+.container-fluid{
+	width: 100%;
+	background-size: cover;
+	height: 100%;
+}
+
+img{
+	margin-bottom: 10px;
+	padding-top: 10px;
+}
+
+#txt{
+	background: white;
+	padding-left: 80px;
+	padding-right: 80px;
+	padding-bottom: 80px;
+	margin-left: 110px;
+	margin-right: 110px;
+	margin-bottom: 80px;
+}
+
+#txt p{
+	font-family: "DJB This is Me";
+	font-size: 24pt;
+	padding-top: 60px;
+}
+
+#txt ul{
+	position: absolute;
+	left: 11%
+}
+
+#txt li{
+	display: inline-block;
+}
+
+#txt li a{
+	display: block;
+	padding-left: 10px;
+}
+
+#tbl{
+	font-family: "DJB This is Me";
+	font-size: 18pt;
+}
